@@ -1,0 +1,20 @@
+{
+  "name": "react-day1-exercises",
+  "version": "1.0.0",
+  "description": "Day 1 Coding Exercises: Core JavaScript & Async Fundamentals",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "ex1": "node 01-reverse-string.js",
+    "ex2": "node 02-remove-duplicates.js",
+    "ex3": "node 03-count-occurrences.js",
+    "ex4": "node 04-group-by-department.js",
+    "ex5": "node 05-debounce.js",
+    "ex6": "node 06-retry.js",
+    "ex7": "node 07-cancel-stale-search.js",
+    "ex8": "node 08-predict-async-output.js"
+  },
+  "keywords": ["javascript", "react-prep", "async", "interview-prep"],
+  "author": "",
+  "license": "ISC"
+}
